@@ -1,13 +1,16 @@
 public class Day01 {
     public static void main(String[] args) {
         // 1st
+        System.out.println(" ");
         System.out.println("Hello Adarsh");
 
         // 2nd
+        System.out.println(" ");
         System.out.println(99+1);
         System.out.println("99+1");
 
         // 3rd
+        System.out.println(" ");
         int x = 5;
         System.out.println(x);
         int y; // declaration
@@ -15,8 +18,12 @@ public class Day01 {
         System.out.println(y);
         y = 100;
         System.out.println(y);
-        x = x - 5;
-        x = x + 25;
+        x = x - 2;
+        x = x - 25;
+        System.out.println(x);
+        x = x * 10;
+        System.out.println(x);
+        x = x / 11;
         System.out.println(x);
     }
 }
