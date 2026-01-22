@@ -1,50 +1,39 @@
-1st:
-7.0
-3.0
-10.0
-2.5
-
-2nd:
-254.46900494077323
-
 3rd:
-179.59438003021648
-179.59438003021648
+10
+11
+12
 
 4rth:
-142.0
+11 10
+
+5th:
+true
 
 6th:
-Enter the radius of circle: 0
-Area of circle of radius 0.0 : 0.0 
+Enter your positive number: 0
+0 is an even number.
 
 7th:
 Enter your number: 0
-Square of 0.0 : 0.0 
+Divisible by 5.
 
 8th:
-Enter principal: 0
-Enter rate: 0
-Enter time: 0
-Simple Interest: 0.0
+Enter your number: 0
+Absolute Integer: 0
 
 9th:
-1
+Enter your number: 0
+It is an integer.
 
 10th:
-2.0
-2.5
+Enter CP: 0
+Enter SP: 0
+No profit and no loss.
 
 11th:
-R
-$
+Enter your (+)ve integer number: 0
+Given number is not 4 digit number.
 
 12th:
-65
-36
-36
-97
-
-13th:
-?
-N
+Enter your integer: -26
+True
